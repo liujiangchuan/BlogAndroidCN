@@ -1,2 +1,2 @@
-# neusoft
-Work Experience on Android from 2014 to 2018 in Neusoft Corporation
+# 中文Android技术博客
+总结和记录一下个人的工作经验，同时分享出来，希望可以带给其他人一些启发和帮助。
